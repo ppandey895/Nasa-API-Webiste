@@ -1,0 +1,164 @@
+html {
+	overflow-x: hidden;
+	font-size: 16px;
+	scroll-snap-type: y mandatory;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+* {
+	font-family: 'Ubuntu', sans-serif;
+	color: #eee;
+}
+
+.h-light {
+	border-radius: 3px;
+	padding: 1px;
+	background: #FAFD1F;
+	color: #222;
+}
+
+button {
+	width: 30px;
+	background: rgba(0,0,0,0.1);
+	border: none;
+	border-radius: 4px;
+	font-size: 2.5rem;
+	line-height: 50%;
+	transition: background 0.5s;
+}
+
+a {
+	text-decoration: none;
+	font-weight: 500;
+	font-size: 1.5rem;
+	color: #2989DB;
+}
+
+button:hover {
+	background: rgba(0,0,0,0.3);
+}
+
+.section {
+	position: relative;
+	min-height: 90vh;
+	padding: 20px;
+	scroll-snap-align: center;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.section-1 {
+	background: #405352;
+}
+
+.section-2 {
+	background: #48A4F9;
+}
+
+.section-3 {
+	background: #21DB8B;
+}
+
+.section-4 {
+	background: #E94E34;
+}
+
+.section-5 {
+	background: #F3B736;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: 120%;
+	background-blend-mode: soft-light;
+}
+
+.section h3,  .section p {
+	text-align: center;
+}
+
+.section p {
+	max-width: 450px;
+	padding: 5px 8px;
+}
+
+.section #scene-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+}
+
+#scene-container .apod_img, img {
+	height: 38vw;
+	border: 8px solid rgba(255,255,255,0.2);
+	border-radius: 30px;
+	box-shadow: 10px 10px 20px rgba(0,0,0,0.4);
+}
+
+.apod_title {
+	text-align: center;
+}
+
+.desc {
+	margin: 0 auto;
+	border-radius: 20px;
+	font-size: 0.9rem;
+	line-height: 1.5rem;
+	background: rgba(255,255,255,0.1);
+	box-shadow: 10px 10px 20px rgba(0,0,0,0.3);
+}
+
+.section .slider {
+	width: 65%;
+}
+
+.slider div {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+	text-align: center;
+}
+
+.slider div img {
+	position: relative;
+}
+
+.slider p.img-text {
+	margin: 0 auto 20px;
+	width: 75%;
+	text-align: center;	
+	font-family: 'Corbel';
+	font-size: 0.80rem;
+}
+
+.section-5 #scene-container h2 i{
+	font-size: 3rem;
+}
+
+.accredition {
+	position: absolute;
+	bottom: 30px;
+	left: 50%;
+	transform: translate(-50%, 0);
+	font-family: 'Ubuntu';
+}
+
+@media (max-width: 768px) {
+	html {
+		font-size: 12px;
+	}
+
+	.section {
+		flex-direction: column-reverse;
+	}
+
+	.section .slider {
+		width: 100%;
+	}
+}

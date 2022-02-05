@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.js"></script>
+	<script src="https://kit.fontawesome.com/5d772099df.js" crossorigin="anonymous"></script>
+	<title>Nasa Web</title>
+
+	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+
+	<div class="section section-1">
+
+		<div>
+			<h3>Welcome to NASA Web!</h3>
+			<p style="line-height: 1.7rem;">Through this website, we wish to aware people about the various projects and <span class="h-light">the awesome outputs</span> that these projects have given and still continue to give fascinating outputs. From <span class="h-light">mind-blowing images of space</span> to accurate predictions of weather on Earth, these projects are profoundly significant to us humans.</p>
+		</div>
+		<div id="scene-container">
+			<h2>EXPLORE VARIOUS PROJECTS OF <span class="h-light">NASA.</span></h2>
+			<img src="images/nasa.png" style="max-height: 300px; border-width: 4px;">
+		</div>
+
+	</div>
+
+	<div class="section section-2">
+
+		<div class="slider">
+			<h3>Second Element</h3>
+			<div>
+				<button onclick="prevImg()">
+					<i class="fas fa-caret-left"></i>
+				</button>
+				<img class="apollo-img" src="" style="max-height: 250px;">
+				<button onclick="nextImg()">
+					<i class="fas fa-caret-right"></i>
+				</button>
+			</div>
+			<p class="img-text">Credit: NASA</p>
+			<p class="desc">Some description here.</p>
+		</div>
+		<div id="scene-container">
+			<h2>Explore the <span class="h-light">Apollo Missions.</span></h2>
+			
+		</div>
+
+	</div>
+
+	<div class="section section-3">
+
+		<div>
+			<h3>Third Element</h3>
+			<p class="desc earth_detail">EPIC (Earth Polychromatic Imaging Camera) is a 10-channel spectroradiometer (317 – 780 nm) onboard NOAA’s DSCOVR (Deep Space Climate Observatory) spacecraft. EPIC provides 10 narrow band spectral images of the entire sunlit face of Earth using a 2048x2048 pixel CCD (Charge Coupled Device) detector coupled to a 30-cm aperture Cassegrain telescope.
+
+			The DSCOVR spacecraft is located at the Earth-Sun Lagrange-1 (L-1) point giving EPIC a unique angular perspective that will be used in science applications to measure ozone, aerosols, cloud reflectivity, cloud height, vegetation properties, and UV radiation estimates at Earth's surface.</p>
+		</div>
+		<div id="scene-container">
+			<h2><span class="h-light">Natural Imaging Of Earth</span></h2>
+			<img class="earth_img" src="" alt="">
+		</div>
+
+	</div>
+
+	<div class="section section-4">
+		
+		<div>
+			<h3>Astronomy Picture Of The Day</h3>
+			<h2 class="apod_title">Title Here</h2>
+			<p class="desc apod_detail">Description Here</p>
+		</div>
+		<div id="scene-container">
+			<img class="apod_img" src="images/cosmos_1.jpg" alt="picture of the day">
+		</div>
+
+	</div>
+
+	<div class="section section-5">
+
+		<div>
+			<h3>Sources and Credit:</h3>
+			<p class="desc"><a href="https://api.nasa.gov/" target="_blank">https://api.nasa.gov/</a></p>
+		</div>
+		<div id="scene-container">
+			<h2><i class="fas fa-user-astronaut"></i> Thank You for Visiting!</h2>
+		</div>
+		<div class="accredition">Created By Pramod Pandey.</div>
+
+	</div>
+
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
