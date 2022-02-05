@@ -1,0 +1,73 @@
+{
+	"apollo-1": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/apollo1-crew.jpg",
+		"img-text": "On Jan. 27, 1967, veteran astronaut Gus Grissom, first American spacewalker Ed White and rookie Roger Chaffee (left-to-right) were preparing for what was to be the first manned Apollo flight.",
+		"desc": "Before any Apollo mission flew, NASA dealt with a major tragedy on Jan. 27, 1967. As the first Apollo crew – Gus Grissom, Ed White and Roger Chaffee – were conducting a simulation on the launch pad in Florida, a flash fire broke out in their capsule. In the 100 percent oxygen atmosphere NASA was then using, the fire spread quickly and killed all three. The disaster caused NASA to re-examine all aspects of the program and rework many of the spacecraft’s systems. That spring, the mission for which the crew had been training was officially named Apollo 1."
+	},
+
+	"apollo-7": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/apollo7-mission.jpg",
+		"img-text": "The expended Saturn S-IVB stage as photographed from the Apollo 7 spacecraft during transposition and docking maneuvers at an approximate altitude of 125 nautical miles, at ground elapsed time of three hours and 16 minutes (beginning of third revolution).",
+		"desc": "The first Apollo mission to get to space was Apollo 7. During the 11-day flight, the crew conducted a number of tests on the spacecraft systems and conducted the first live TV program from an American spacecraft. All three crewmembers – Wally Schirra, Walt Cunningham and Donn Eisele – developed bad head colds during the mission. Despite the discomfort, the astronauts completed their mission objectives, demonstrating the resilience and adaptability needed by humans in space."
+	},
+
+	"apollo-8": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/earthrise.jpg",
+		"img-text": "\"Earthrise\" Taken aboard Apollo 8 by Bill Anders, this iconic picture shows Earth peeking out from beyond the lunar surface as the first crewed spacecraft circumnavigated the Moon.",
+		"desc": "The success of earlier flights, problems in the development of the lunar module and concerns that the Soviet Union might be ready to launch astronauts around the Moon led NASA to change the flight plan for the next Saturn V mission. NASA ultimately changed from an unpiloted, Earth-orbiting mission to a crewed flight around the Moon. Frank Borman, Jim Lovell and Bill Anders were the first crew to fly atop the powerful Saturn V booster, ultimately spending 20 hours orbiting the Moon. On Christmas Eve, 1968, the crew gave a memorable reading from the Book of Genesis, and while in orbit Anders took the iconic \"Earthrise\" photo."
+	},
+
+	"apollo-9": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/apollo9-05.jpg",
+		"img-text": "Astronaut Russell L. Schweickart, lunar module pilot, operates a 70mm Hasselblad camera during his extravehicular activity on the fourth day of the Apollo 9 earth-orbital mission. The Command/Service Module and the Lunar Module 3 \"Spider\" are docked. This view was taken form the Command Module \"Gumdrop\". Schweickart, wearing an Extravehicular Mobility Unit (EMU), is standing in \"golden slippers\" on the Lunar Module porch. On his back, partially visible, are a Portable Life Support System (PLSS) and an Oxygen Purge System (OPS).",
+		"desc": "With a trip around the Moon completed, it was time for NASA to start seriously planning to land astronauts there. The next step was the Apollo 9 mission, the first to carry a lunar module into orbit. Though the mission stayed in Earth orbit, Commander James McDivitt and Lunar Module Pilot Rusty Schweickart separated the lunar module from the command module and flew independently for six hours, testing the lunar module’s systems. Schweickart conducted a spacewalk on the lunar module’s “porch” to test the spacesuit astronauts would wear on the Moon."
+	},
+
+	"apollo-10": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/apollo10-mission.jpg",
+		"img-text": "Aerial view at Launch Complex 39, Kennedy Space Center, showing the Apollo 10 (Spacecraft 106/Lunar Module-4/Saturn 505) space vehicle on its way to Pad B. The Saturn V stack and its mobile launch tower are atop a huge crawler-transporter.",
+		"desc": "The next test of the lunar module was conducted above the Moon. Apollo 10 was a full dress rehearsal for the first lunar landing. The crew tested all aspects of the mission, even showing the initial docking with the lunar module on the first color television transmission from space. Commander Thomas Stafford and Lunar Module Pilot Eugene Cernan flew the lunar module for eight hours, coming within 10 miles of the lunar surface and passing over the Sea of Tranquility, where Apollo 11 would land."
+	},
+
+	"apollo-11": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/moonwalk.jpg",
+		"img-text": "Apollo 11 astronaut Buzz Aldrin on the Moon.",
+		"desc": "On July 20, 1969, humans walked on another world for the first time in history, achieving the goal that President John F. Kennedy had set in 1961, before Americans had even orbited the Earth. After a landing that included dodging a lunar crater and boulder field just before touchdown, Neil Armstrong and Buzz Aldrin explored the area around their lunar landing site for more than two hours. They collected soil and rock samples, set up experiments, planted an American flag, and left behind medallions honoring the Apollo 1 crew and a plaque saying, “We came in peace for all mankind.”"
+	},
+
+	"apollo-12": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/apollo12-mission.jpg",
+		"img-text": "Astronaut Alan L. Bean, lunar module pilot for the Apollo 12 lunar landing mission, works at the Modular Equipment Stowage Assembly (MESA) on the Apollo 12 Lunar Module (LM) during the mission's first extravehicular activity, (EVA) on Nov. 19, 1969.",
+		"desc": "Among the many mission objectives for Apollo 12 was to recover pieces of Surveyor III, a robotic lander that had been on the Moon for more than two years. Scientists wanted to study the effects of the lunar environment on the spacecraft. After a pinpoint landing that gave the crew easy access to Surveyor, they also deployed an experiments package that included a seismometer. Before leaving lunar orbit, they jettisoned the lunar module’s ascent stage so it crashed onto the surface, providing a controlled experiment to assess the seismometers."
+	},
+
+	"apollo-13": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/apollo13-mission.png",
+		"img-text": "This view of the severely damaged Apollo 13 Service Module (SM) was photographed from the Lunar Module/Command Module (LM/CM) following SM jettisoning.",
+		"desc": "Apollo 13 has been called a “successful failure,” because the crew never landed on the Moon, but they made it home safely after an explosion crippled their ship. A switch and insulation, which should have been modified during an upgrade to one oxygen tank, were damaged during a test of that tank during construction. When the associated heater was turned on during flight, the tank exploded, depleting almost all of the power from the command module and forcing the crew to use the lunar module as a lifeboat. Jim Lovell, Fred Haise and Jack Swigert came home safely thanks to the mission control team’s improvised procedures and their own ability to implement them."
+	},
+
+	"apollo-14": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/apollo14-mission.jpg",
+		"img-text": "Astronaut Alan B. Shepard Jr., commander of the Apollo 14 lunar landing mission, stands by the deployed United States flag on the lunar surface during the early moments of the first extravehicular activity (EVA) of the mission.",
+		"desc": "Notable for the return of America’s first astronaut, Alan Shepard, to space, Apollo 14 also was probably the smoothest lunar landing to that point. The crew spent more than nine hours outside the lunar module and set up a number of experiments. Shepard set a new distance record by walking more than 9,000 feet on the lunar surface, pulling a hand cart to carry their tools and samples."
+	},
+
+	"apollo-15": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/apollo15-missions.jpg",
+		"img-text": "This photograph of the Lunar Roving Vehicle (LRV) was taken during the Apollo 15 mission. Powered by battery, the lightweight electric car greatly increased the range of mobility and productivity on the scientific traverses for astronauts.",
+		"desc": "For the first time, humans drove a car on the Moon. The first of the Apollo “J” missions – designed for longer stays on the Moon – the mission carried a lunar rover, which Commander David Scott and Lunar Module Pilot James Irwin used while they were on the surface for more than 18 hours. The traveled more than 17 miles in the rover, setting up experiments and collecting 170 pounds of samples. Before leaving the lunar surface, Scott conducted an experiment to test Galileo’s theory that objects in vacuum, without air resistance, would fall at the same rate. He dropped a geological hammer and a feather, which hit the ground at the same time, proving Galileo right."
+	},
+
+	"apollo-16": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/apollo16-missions.jpg",
+		"img-text": "An excellent view of the Lunar Module (LM) \"Orion\" and Lunar Roving Vehicle (LRV), as photographed by astronaut Charles M. Duke Jr., lunar module pilot, during the first Apollo 16 extravehicular activity (EVA) at the Descartes landing site.",
+		"desc": "Apollo 16 also took advantage of having a lunar rover, as Commander John Young and Lunar Module Pilot Charles Duke drove more than 16 miles over three moonwalks, collecting 209 pounds of samples. Problems forced mission controllers to cut the flight short by a day, but the return trip included a spacewalk by Command Module Pilot Ken Mattingly to retrieve film from a camera in the service module."
+	},
+
+	"apollo-17": {
+		"img-url": "https://www.nasa.gov/specials/apollo50th/img/apollo17-missions.jpg",
+		"img-text": "This is an Apollo 17 Astronaut standing upon the lunar surface with the United States flag in the background. The seventh and last manned lunar landing and return to Earth mission, the Apollo 17.",
+		"desc": "The last Apollo mission featured the most extensive lunar exploration of the program, with three moonwalks that each lasted more than seven hours while the crew stayed on the Moon for more than three days. Commander Gene Cernan and Lunar Module Pilot Harrison Schmitt – the first scientist-astronaut to reach the Moon – collected 243 pounds of material. These samples, and those from the previous missions, continue to reveal more about the Moon as new tools and techniques are developed and applied."
+	}
+}
