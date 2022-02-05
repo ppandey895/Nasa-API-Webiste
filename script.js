@@ -1,6 +1,4 @@
-console.log("hello world");
 
-// let api_key = '6Xcrf2LYbjkMwAyG3jvlUOxZhA6vC0KYimC25EWd';
 let root = 'https://images-api.nasa.gov/';
 let url_earth = 'https://api.nasa.gov/EPIC/api/natural/images?api_key=' + '6Xcrf2LYbjkMwAyG3jvlUOxZhA6vC0KYimC25EWd';
 let apod = 'https://api.nasa.gov/planetary/apod?api_key=' + '6Xcrf2LYbjkMwAyG3jvlUOxZhA6vC0KYimC25EWd';
